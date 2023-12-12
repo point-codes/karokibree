@@ -1,0 +1,13 @@
+img{
+    height: 550px;
+    width: 1000px;
+    object-fit: contain;
+    object-position: center;
+    float:unset
+}
+body{
+    background-color:  rgba(0, 128, 0, 0.774);
+}
+a{
+    color: blue;
+}
